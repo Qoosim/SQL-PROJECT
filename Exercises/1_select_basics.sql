@@ -39,3 +39,8 @@ WHERE name LIKE '%a%a%a%'
 SELECT name
 FROM world
 WHERE name LIKE '_t%'
+
+--9 => Find the countries that have two "o" characters separated by two others.
+SELECT name
+FROM world
+WHERE name LIKE '%o__o%'
