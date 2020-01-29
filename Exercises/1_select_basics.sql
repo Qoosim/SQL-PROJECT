@@ -15,7 +15,12 @@ SELECT name
 FROM world
 WHERE name LIKE '%x%'
 
--- 4 => Find the countries that end with land
+--4 => Find the countries that end with land
 SELECT name
 FROM world
 WHERE name LIKE '%land'
+
+--5 => Find the countries that start with C and end with ia
+SELECT name
+FROM world
+WHERE name LIKE 'C%ia'
