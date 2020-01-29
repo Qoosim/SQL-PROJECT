@@ -4,7 +4,9 @@
 SELECT name, continent, population
 FROM world
 
--- 2 => Show the name for the countries that have a population of at least 200 million.
+--2 => Show the name for the countries that have a population of at least 200 million.
 SELECT name 
 FROM world
-WHERE population = 64105700
+WHERE population >= 200000000
+
+--3 => 
