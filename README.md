@@ -2,7 +2,7 @@
 
 My SQL solutions to the exercises (0 - 9) from [SQL ZOO]('https://sqlzoo.net/wiki/SQL_Tutorial')
 
-This project helped to pratically apply my SQL basic knowledge on the exercises.
+This project helped to pratically apply my acquired knowledge on basic SQL.
 
 ## Table of Contents
   - [About This Project](https://github.com/Qoosim/SQL-PROJECT/tree/sql#-about-this-project)
